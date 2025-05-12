@@ -217,6 +217,118 @@
         "type": "html"
     },
     {
+        "name": "Breaklock",
+        "image": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/images/breaklock.jpeg",
+        "path": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/games/breaklock.html",
+        "description": "",
+        "types": ["html", "skill", "boardgame"],
+        "type": "html"
+    },
+    {
+        "name": "Coreball",
+        "image": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/images/coreball.png",
+        "path": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/games/coreball.html",
+        "description": "",
+        "types": ["html", "skill", "strategy"],
+        "type": "html"
+    },
+    {
+        "name": "CSGO Clicker",
+        "image": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/images/csgoclicker.jpeg",
+        "path": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/games/csgoClicker.html",
+        "description": "",
+        "types": ["html", "popular", "grinding"],
+        "type": "html"
+    },
+    {
+        "name": "Cube Master",
+        "image": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/images/cubemaster.jpeg",
+        "path": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/games/cube-master.html",
+        "description": "",
+        "types": ["html", "skill", "boardgame"],
+        "type": "html"
+    },
+    {
+        "name": "A Dark Room",
+        "image": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/images/darkroom.png",
+        "path": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/games/darkroom.html",
+        "description": "",
+        "types": ["html", "strategy", "survival"],
+        "type": "html"
+    },
+    {
+        "name": "Dogeminer",
+        "image": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/images/dogeminer.jpeg",
+        "path": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/games/dogeminer.html",
+        "description": "",
+        "types": ["html", "grinding", "mindless"],
+        "type": "html"
+    },
+    {
+        "name": "Hextris",
+        "image": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/images/hextris.jpeg",
+        "path": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/games/hextris.html",
+        "description": "",
+        "types": ["html", "strategy", "linear"],
+        "type": "html"
+    },
+    {
+        "name": "Oregon Trail",
+        "image": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/images/oregontrail.jpeg",
+        "path": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/games/oregon-trail.html",
+        "description": "",
+        "types": ["html", "survival", "linear"],
+        "type": "html"
+    },
+    {
+        "name": "Planet Life",
+        "image": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/images/planetlife.jpeg",
+        "path": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/games/PlanetLife.html",
+        "description": "",
+        "types": ["html", "grinding", "mindless"],
+        "type": "html"
+    },
+    {
+        "name": "Progess Knight Quest",
+        "image": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/images/progressknight.png",
+        "path": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/games/ProgressKnightQuest.html",
+        "description": "",
+        "types": ["html", "grinding", "mindless"],
+        "type": "html"
+    },
+    {
+        "name": "Progess Knight Reborn",
+        "image": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/images/progressknight.png",
+        "path": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/games/ProgressKnightReborn.html",
+        "description": "",
+        "types": ["html", "grinding", "mindless"],
+        "type": "html"
+    },
+    {
+        "name": "Space Company",
+        "image": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/images/spacecompany.png",
+        "path": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/games/spacecompany.html",
+        "description": "",
+        "types": ["html", "grinding", "mindless"],
+        "type": "html"
+    },
+    {
+        "name": "Space Shooters",
+        "image": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/images/spaceshooters.jpeg",
+        "path": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/games/spaceshooters.html",
+        "description": "",
+        "types": ["html", "skill", "shooter"],
+        "type": "html"
+    },
+    {
+        "name": "Wordle",
+        "image": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/images/wordle.png",
+        "path": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/games/wordle.html",
+        "description": "",
+        "types": ["html", "logic", "popular"],
+        "type": "html"
+    },
+    {
         "name": "JS Racer",
         "image": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/images/car_racer.jpg",
         "path": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/games/jsracer.html",
