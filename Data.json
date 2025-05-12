@@ -330,7 +330,7 @@
     },
     {
         "name": "JS Racer",
-        "image": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/images/jsracer.jpg",
+        "image": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/images/jsracer.png",
         "path": "https://raw.githubusercontent.com/LuminesenceProject/lumi-games/main/games/jsracer.html",
         "description": "JS Racer is an exhilarating racing game that brings the thrill of high-speed competition right to your fingertips. Immerse yourself in a world of adrenaline-pumping action as you take control of powerful virtual vehicles and race against the clock or challenge your friends in multiplayer mode. \nTo play JS Racer, simply fire up your web browser and let the magic of JavaScript transport you into a fast-paced racing universe. Choose from a wide selection of sleek and customizable cars, each with its own unique handling and performance characteristics. Feel the rush of speed as you navigate through stunning tracks filled with challenging twists, turns, and obstacles. Keep your reflexes sharp and unleash your racing skills as you strive to outmaneuver your opponents and claim victory. Utilize power-ups strategically, take advantage of shortcuts, and master the art of drifting to gain an edge over your rivals. Whether you prefer intense solo challenges or thrilling multiplayer showdowns, JS Racer offers endless excitement and the opportunity to become a true racing legend.",
         "types": ["html", "skill", "driving"],
